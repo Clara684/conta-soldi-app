@@ -1,3 +1,3 @@
 self.addEventListener("install", () => {
-  console.log("App pronta ✨");
+  console.log("Conta Soldi installata");
 });

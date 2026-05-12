@@ -1,7 +1,7 @@
 {
   "name": "Conta Soldi",
   "short_name": "Soldi",
-  "start_url": "./appfamilycheck.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#fff6f7",
   "theme_color": "#f48ca7",
